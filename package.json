@@ -24,7 +24,7 @@
     "esotope-hammerhead": "0.6.3",
     "http-cache-semantics": "^4.1.0",
     "httpntlm": "^1.8.10",
-    "iconv-lite": "0.5.1",
+    "iconv-lite": "0.6.3",
     "lodash": "^4.17.20",
     "lru-cache": "2.6.3",
     "match-url-wildcard": "0.0.4",

@@ -36,7 +36,7 @@
     "parse5": "2.2.3",
     "pinkie": "2.0.4",
     "read-file-relative": "^1.2.0",
-    "semver": "5.5.0",
+    "semver": "5.7.2",
     "tough-cookie": "4.0.0",
     "tunnel-agent": "0.6.0"
   },
